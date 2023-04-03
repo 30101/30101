@@ -47,6 +47,14 @@ Ent&atilde;o veja meu perfil no Linkedin:&nbsp;
   <li>Javascript</li>
   <li>Python</li>
 </ul>
+<strong>Minhas ferramentas:<br>
+</strong>
+<ul dir="auto">
+  <li>Visual Studio Code</li>
+  <li>Replit</li>
+  <li>Windows</li>
+  <li>Figma</li>
+</ul>
 <p dir="auto"><strong>Meu interesse de estudos
 futuros</strong>:</p>
 <ul dir="auto">
@@ -73,9 +81,7 @@ maior projeto at&eacute; agora (03/2023) foi a
 cria&ccedil;&atilde;o de uma Landing Page para atrair mais
 clientes para empresa Businnes News. &Eacute; um portal de noticias
 voltado para o meio corporativo. Por
-favor, veja no reposit&oacute;rio meu trabalho.<a
- href="/durgeshsamariya/durgeshsamariya"
- class="no-underline Link--primary"></a><br>
+favor, veja no reposit&oacute;rio meu trabalho.<br>
   </li>
 </ul>
 <br>
@@ -83,8 +89,12 @@ favor, veja no reposit&oacute;rio meu trabalho.<a
 <br>
 <div align="center"> <img
  src="https://github-readme-stats.vercel.app/api?username=30101&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117"
- alt="Uiran Porcincula" height="195"
- width="49%"> <img
+ alt="Uiran Porcincula" height="195" width="49%">
+<img
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=30101&amp;layout=compact&amp;hide_border=true&amp;title_color=ff91a4&amp;text_color=ff91a4&amp;bg_color=0d1117"
  height="195" width="41%">
 </div>
+</div>
+</div>
+</body>
+</html>
