@@ -26,12 +26,9 @@ Desenvolvimento de
 Software, pois iniciei o curso a pouco. Mas tenho muita
 experi&ecirc;ncia em<br>
 manuten&ccedil;&atilde;o
-de computadores. Verdade, desmonto e monto um computador de olhos
-fechados! E trabalhei por 7 anos no ramo de
+de computadores. Trabalhei por 7 anos no ramo de
 telecomunica&ccedil;&otilde;es.<br>
-Ent&atilde;o eu sei identificar cada perif&eacute;rico de um
-computador, e sei tamb&eacute;m fazer uma emenda de fibra optica!
-rsrs<br>
+<br>
 <br>
 Quer ver mais sobre meu hist&oacute;rico profisisonal?
 Ent&atilde;o veja meu perfil no Linkedin:&nbsp;
